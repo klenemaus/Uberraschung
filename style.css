@@ -1,0 +1,99 @@
+body{
+    background-color: lavenderblush;
+}
+a{
+    color: white;
+    background-color: lightpink;
+    border: white;
+    position: absolute;
+   transform: translate(-50%, -50%);
+   top: 50%;
+   left: 50%;
+   padding: 20px 50px;
+   font-size: 100px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+.pink1-element{
+    font-size: small;
+   background-color: rgb(248, 173, 209);
+}
+
+.pink2-element{
+    font-size: small;
+   background-color: rgb(248, 173, 209);
+}
+
+.pink3-element{
+    font-size: small;
+   background-color: rgb(248, 173, 209);
+}
+
+p{
+   font-size: x-large;
+}
+
+.satz-element{
+    padding-bottom: 50px;
+}
+
+.glück-element{
+    font-size: 50px;
+   background-color: rgb(248, 173, 209);
+   position: relative;
+   left: 0px;
+   top: 269px;
+
+}
+
+.sauer-element{
+    font-size: 50px;
+   background-color: rgb(248, 173, 209);
+   position: relative;
+   left:   1100px;
+   top: 210px;
+}
+
+.traurig-element{
+    font-size: 50px;
+   background-color: rgb(248, 173, 209);
+   
+}
+
+.bestep {
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+
+.happy {
+    font-size: 35px;
+    position: relative;
+    left: 0px;
+    top: 10px;
+}
+
+.goodjob{
+    font-size: 35px;
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+
+.leben{
+    font-size: 35px;
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+
+.sterben{
+    font-size: 35px;
+    position: relative;
+    left: 60px;
+    top: 10px;
+
+}
+

@@ -1,0 +1,35 @@
+body{
+    background-color: lavenderblush;
+}
+
+
+.sauer2 {
+    color: white;
+    background-color: lightpink;
+    font-size: 40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative; 
+    left: 30px; 
+    top: -20px;
+    display: inline-block;width: 200px; height: 90px;
+    background-color: lightpink;
+    text-align: center;
+}
+
+.glück2{
+    color: white;
+    background-color: lightpink;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative; 
+    left: 100px; 
+    top: -60px;
+    display: inline-block;width: 200px; height: 90px;
+    background-color: lightpink;
+    text-align: center;
+}
+   
+.traurigsatz {
+    font-size: 30px;
+
+}
